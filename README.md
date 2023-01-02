@@ -1,6 +1,6 @@
 ### Olá! Eu sou Hiago de Jesus Souza👋
 
-- 🌱Atualmente estudo HTMl 5 e CSS 3
+- 🌱Atualmente estudo HTML 5 e CSS 3
 - 📫 Contate-me pelo e-mail: hiago.nonato12@gmail.com
 - 😄 Pronomes: Ele/Dele
 
